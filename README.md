@@ -21,6 +21,7 @@ Users can view different tours and remove the ones they are not interested in.
 ---
 
 ## 📂 Project Structure
+```
 tours-app/
 │── public/
 │── src/
@@ -31,6 +32,7 @@ tours-app/
 │ └── index.js
 │── package.json
 │── README.md
+```
 
 
 ---
